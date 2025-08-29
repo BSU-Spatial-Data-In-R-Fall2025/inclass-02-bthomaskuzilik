@@ -17,7 +17,7 @@ Modify the yaml header to include your name and affiliation. Save the document a
 
 ## Write some text
 
-Delete this sentence and replace it with one sentence that tells me where you're from and a second sentence with the topic of your research. Change the color of the city name to blue and italicize your research topic.
+I am from [Boise, Idaho]{style="color:blue;"}. I will be researching *systematic conservation planning and maybe also how to incorporate movement ecology into these plans because it's fun and I can't let it go*.
 
 Save the document and commit your change
 
