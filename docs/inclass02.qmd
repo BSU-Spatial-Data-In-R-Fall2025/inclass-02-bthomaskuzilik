@@ -17,7 +17,7 @@ Modify the yaml header to include your name and affiliation. Save the document a
 
 ## Write some text
 
-I am from [Boise, Idaho]{style="color:blue;"}. I will be researching *systematic conservation planning and maybe also how to incorporate movement ecology into these plans because it's fun and I can't let it go*.
+I am from <span style="color:red;">Boise, ID</span>. I will be researching *systematic conservation planning and maybe also how to incorporate movement ecology into these plans because it's fun and I can't let it go*.
 
 Save the document and commit your change
 
